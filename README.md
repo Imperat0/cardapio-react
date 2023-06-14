@@ -13,8 +13,10 @@ Tecnologias
 - Typescript
 
 Para para baixar o projeto
+
 npm install
 
 Para iniciar o projeto
+
 npm run dev
  
